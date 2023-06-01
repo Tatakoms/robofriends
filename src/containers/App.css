@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "SuperMario256";
+    src: local("SuperMario256"),
+     url("./fonts/SuperMario256.ttf") format("truetype");
+   }
+
+   h1 {
+    font-family: "SuperMario256";
+    font-weight: 300;
+    color: purple;
+   }
